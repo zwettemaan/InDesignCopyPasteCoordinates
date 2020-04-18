@@ -14,7 +14,7 @@
 // by Kris Coppieters kris@rorohiko.com
 // https://www.linkedin.com/in/kristiaan/
 // 
-// Documentation:
+// Documentation and Setup Instructions:
 // 
 // https://github.com/zwettemaan/InDesignCopyPasteCoordinates/wiki
 // 
@@ -71,89 +71,6 @@
 // 
 // To make this set of scripts efficient to use, it is highly recommended
 // that you set up some keyboard shortcuts from them.
-// 
-// Use the Edit - Keyboard Shortcuts... menu item
-// 
-// You can leave the [Default] set selected or you can create a new one; if
-// you leave [Default] selected, InDesign will automatically create a new
-// set for you when it needs to.
-// 
-// Select the product area 'Scripts'
-// 
-// Find the 'CopyCoordinates.jsx' script, and assign a shortcut key (I use
-// Ctrl-Shift-C)
-// 
-// Find the 'PasteCoordinates.jsx' script, and assign a shortcut key (I use
-// Ctrl-Shift-V)
-// 
-// Find the 'PasteSameReferencePointCoordinates.jsx' script, and assign a
-// shortcut key (I use Ctrl-Alt-Shift-V or Crtl-Opt-Shift-V)
-// 
-// Close the dialogs. Now copying and pasting coordinates becomes very easy
-// and quick to do.
-// 
-// ---------------
-// 
-// Installing the scripts:
-// 
-//   Start Adobe InDesign
-// 
-//   Make the Scripts Panel show up (Window - Utilities - Scripts menu)
-// 
-//   Right-click or Option-Click the line that says 'User' 
-// 
-//   Select 'Reveal in Finder' or 'Reveal in Explorer' from the contextual menu
-// 
-//   A folder/directory window 'Scripts' should show up.
-// 
-//   Double-click the subfolder 'Scripts Panel' so it opens.
-// 
-//   Drag the three icons for the script files
-//     CopyCoordinates.jsx
-//     PasteCoordinates.jsx
-//     PasteSameReferencePointCoordinates.jsx
-//   into this 'Scripts Panel' folder.
-// 
-//   Make sure to drag into 'Scripts Panel' and not into 'Scripts'.
-// 
-//   Switch back to InDesign. The scripts should now be listed 'inside' the
-//   'User' entry on the Scripts Panel.
-// 
-//   Select the Edit - Keyboard Shortcuts... menu item
-// 
-//   Click 'New Set' on the right
-// 
-//   Name the set as you like (e.g. 'CopyPasteCoordinatesSet').
-// 
-//   Select Product Area 'Scripts'
-// 
-//   Scroll until you see the three scripts listed (probably way down at the end)
-// 
-//   Click 'User: CopyCoordinates.jsx'
-// 
-//   Click in the 'New Shortcut:' field
-// 
-//   Hit the three keys Ctrl-Shift-C simultaneously
-// 
-//   Click 'Assign'
-// 
-//   Click 'User: PasteCoordinates.jsx'
-// 
-//   Click in the 'New Shortcut:' field
-// 
-//   Hit the three keys Ctrl-Shift-V simultaneously
-// 
-//   Click 'Assign'
-// 
-//   Click 'User: PasteSameReferencePointCoordinates.jsx'
-// 
-//   Click in the 'New Shortcut:' field
-// 
-//   Hit the four keys Ctrl-Opt-Shift-V or Ctrl-Alt-Shift-V simultaneously
-// 
-//   Click 'Assign'
-// 
-//   Click OK
 // 
 
 function pasteSameReferencePointCoordinate() {
