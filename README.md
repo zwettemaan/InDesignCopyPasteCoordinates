@@ -65,27 +65,7 @@ script will paste back in the top-left corner, even if a different point
 gets selected amongst the 9 reference points.
 
 To make this set of scripts efficient to use, it is highly recommended
-that you set up some keyboard shortcuts from them.
-
-Use the _Edit - Keyboard Shortcuts..._ menu item
-
-You can leave the _\[Default\]_ set selected or you can create a new one; if
-you leave _\[Default\]_ selected, InDesign will automatically create a new
-set for you when it needs to.
-
-Select the product area _Scripts_
-
-Find the `CopyCoordinates.jsx` script, and assign a shortcut key (I use
-_Ctrl-Shift-C_)
-
-Find the `PasteCoordinates.jsx` script, and assign a shortcut key (I use
-_Ctrl-Shift-V_)
-
-Find the `PasteSameReferencePointCoordinates.jsx` script, and assign a
-shortcut key (I use _Ctrl-Alt-Shift-V_ or _Crtl-Opt-Shift-V_)
-
-Close the dialogs. Now copying and pasting coordinates becomes very easy
-and quick to do.
+that you set up some keyboard shortcuts from them (see below).
 
 # Installing The Scripts:
 
