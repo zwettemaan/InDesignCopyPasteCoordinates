@@ -1,24 +1,23 @@
 # InDesign Copy/Paste Coordinates
-
+```
 CopyCoordinates.jsx
 PasteCoordinates.jsx
 PasteSameReferencePointCoordinates.jsx
+```
 © 2019-2020, Rorohiko Ltd.
 
 A set of scripts for Adobe® InDesign®
 
 v 1.0.2, April, 2020
 
-by Kris Coppieters kris@rorohiko.com
+by Kris Coppieters kris@rorohiko.com    
 https://www.linkedin.com/in/kristiaan/
 
-Documentation:
+# Documentation:
 
 https://github.com/zwettemaan/InDesignCopyPasteCoordinates/wiki
 
-----------------
-
-About Rorohiko:
+# About Rorohiko:
 
 Rorohiko specialises in making printing, publishing and web workflows
 more efficient.
@@ -33,9 +32,7 @@ sales@rorohiko.com
 The scripts we write for our customers repay for themselves within weeks
 or months.
 
----------------
-
-About these scripts:
+# About these scripts:
 
 Select a single page item, and with the page item still selected, run
 the CopyCoordinates.jsx script. It will copy the coordinates of the page
@@ -90,9 +87,7 @@ shortcut key (I use Ctrl-Alt-Shift-V or Crtl-Opt-Shift-V)
 Close the dialogs. Now copying and pasting coordinates becomes very easy
 and quick to do.
 
----------------
-
-Installing the scripts:
+# Installing the scripts:
 
   Start Adobe InDesign
   
