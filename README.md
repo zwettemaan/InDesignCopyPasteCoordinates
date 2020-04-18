@@ -13,7 +13,7 @@ v 1.0.2, April, 2020
 by Kris Coppieters kris@rorohiko.com    
 https://www.linkedin.com/in/kristiaan/
 
-# Documentation:
+# Documentation and detailed installation instructions:
 
 https://github.com/zwettemaan/InDesignCopyPasteCoordinates/wiki
 
