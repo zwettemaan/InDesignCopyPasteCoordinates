@@ -13,7 +13,7 @@ v 1.0.2, April, 2020
 by Kris Coppieters kris@rorohiko.com    
 https://www.linkedin.com/in/kristiaan/
 
-# Documentation and detailed installation instructions:
+# Documentation and Detailed Installation Instructions:
 
 https://github.com/zwettemaan/InDesignCopyPasteCoordinates/wiki
 
@@ -32,7 +32,7 @@ sales@rorohiko.com
 The scripts we write for our customers repay for themselves within weeks
 or months.
 
-# About these scripts:
+# About These Scripts:
 
 Select a single page item, and with the page item still selected, run
 the `CopyCoordinates.jsx` script. It will copy the coordinates of the page
@@ -87,7 +87,7 @@ shortcut key (I use _Ctrl-Alt-Shift-V_ or _Crtl-Opt-Shift-V_)
 Close the dialogs. Now copying and pasting coordinates becomes very easy
 and quick to do.
 
-# Installing the scripts:
+# Installing The Scripts:
 
 Start Adobe InDesign
   
@@ -113,6 +113,8 @@ Make sure to drag into _Scripts Panel_ and not into _Scripts_.
   
 Switch back to InDesign. The scripts should now be listed 'inside' the
 _User_ entry on the _Scripts_ Panel.
+
+# Assigning Keyboard Shortcuts:
 
 Select the _Edit - Keyboard Shortcuts…_ menu item
 
